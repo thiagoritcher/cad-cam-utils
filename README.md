@@ -6,8 +6,9 @@ Vibecoded iterations to translate line curves to real curves and convert connect
 
     git clone https://github.com/thiagoritcher/cad-cam-utils.git
 
-    cd lines_to_arcs
+    cd cad-cam-utlis
     python3 -m venv .venv
+    source .venv/bin/activate
     pip install ezdxf numpy
 
      
